@@ -25,5 +25,5 @@ Telethon==0.18.2.2
 tweepy==3.6.0
 typing==3.6.4
 tzlocal==1.5.1
-urllib3==1.22
+urllib3==1.24.2
 virtualenv==15.0.1
