@@ -14,7 +14,7 @@ pyTelegramBotAPI==3.6.2
 pytg==0.4.10
 python-telegram-bot==10.0.1
 pytz==2018.3
-PyYAML==3.11
+PyYAML==5.4
 requests>=2.11.1
 requests-oauthlib==0.8.0
 rsa==3.4.2
